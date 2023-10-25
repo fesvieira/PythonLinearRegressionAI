@@ -10,7 +10,7 @@ A linear regression AI used to predict solar power generation with given data
 
 ### Inverter Power vs AI Predicted Power
 
-<p>
+<p align="center">
   <img width="252" alt="image" src="https://github.com/fesvieira/PythonLinearRegressionAI/assets/65823376/715fcd92-9155-4e49-b311-61707802ca91">
   <img width="280" alt="image" src="https://github.com/fesvieira/PythonLinearRegressionAI/assets/65823376/e53733fe-912d-4c8f-a2c1-282f5a940dec">  
 </p>
