@@ -1,4 +1,4 @@
-# PythonLinearRegressionAI
+# Solar Power Predict AI
 A linear regression AI used to predict solar power generation with given data
 
 - Currently, there are various photovoltaic energy systems being installed in Brazil. This new market has experienced exponential growth in recent years, and as a result, the technology behind it is continually advancing.
