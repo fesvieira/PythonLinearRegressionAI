@@ -5,7 +5,7 @@ A linear regression AI used to predict solar power generation with given data
 
 - Growatt is a company that manufactures frequency inverters for solar energy. They offer a variety of inverter types for sale, allowing for a wide range of installations. Combining this with the rapid growth of the market, there is still much room for development and maturation in this field. There are few high-quality training courses available for individuals interested in this area, and universities have yet to significantly incorporate this lucrative field into their electrical engineering programs.
 
-- The aim of this project is to develop a technology related to this market, incorporating intelligent systems, as per the scope of the discipline. With this in mind, the team has decided to create a neural network capable of predicting the generation data of an inverter.
+- The aim of this project is to develop a technology related to this market, incorporating intelligent systems.
 
 
 ### Inverter Power vs AI Predicted Power
